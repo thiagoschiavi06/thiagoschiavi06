@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 💙
 
-<!--
-**thiagoschiavi06/thiagoschiavi06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Thiago Schiavi
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utlizo esse espaço para minha orgaização ecompartilhamento dos meus projetos desenvolvios
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você pode entrar em contato comigo 📫
+
+  thiagoschiavi7@gmail.com
+  
+  @thiagoschiavi7
+
+![]( https://media.tenor.com/RGTKIMlyTJoAAAAi/rolling-cat-cat-rolling.gif)
