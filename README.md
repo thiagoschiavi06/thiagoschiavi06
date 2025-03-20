@@ -2,9 +2,9 @@
 
 Meu nome é Thiago Schiavi
 
-- Estou estudando na [Alura](https://www.alura.com.br)
-- Estou me desenvolvendo na linguagem JavaScript
-- Utlizo esse espaço para minha orgaização ecompartilhamento dos meus projetos desenvolvios
+- Estou estudando na [Fatec](https://www.fatecourinhos.edu.br)
+- Estou me desenvolvendo na linguagem JavaScript, Html, Css e C++
+- Utlizo esse espaço para minha orgaização ecompartilhamento dos meus projetos desenvolvidos
 
   ### Você pode entrar em contato comigo 📫
 
